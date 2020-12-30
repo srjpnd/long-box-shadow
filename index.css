@@ -4,3 +4,17 @@
     box-shadow: border-box;
     
 }
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #ff3463;
+    
+}
+
+.container{
+    height: 200px;
+    width: 200px;
+    background: #fff;
+}
